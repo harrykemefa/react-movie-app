@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-movie-app/static/js/main.1e0b6b60.js",
+    "static/media/illustration-empty-state.png": "/react-movie-app/static/media/illustration-empty-state.4669a94fa0341ef20463.png",
+    "static/media/no-cover.jpeg": "/react-movie-app/static/media/no-cover.2a23e0cf523731ebe809.jpeg",
+    "static/media/logo-imdb.svg": "/react-movie-app/static/media/logo-imdb.92260f7adff4405e18d2fed706d2c5a8.svg",
+    "static/media/logo.svg": "/react-movie-app/static/media/logo.a28146522af1c4bba345e066cbe012ba.svg",
+    "static/media/logo-rotten-tomatoes.svg": "/react-movie-app/static/media/logo-rotten-tomatoes.f60abeea9c25a2d2ee63ff68b01ff40e.svg",
+    "static/media/icon-arrow-grey.svg": "/react-movie-app/static/media/icon-arrow-grey.8654fccd1faaa675b411ae8c5146cd43.svg",
+    "static/media/icon-magnifier-grey.svg": "/react-movie-app/static/media/icon-magnifier-grey.94ee2ed36223a12a52a39eba7054345f.svg",
+    "static/media/icon-heart-full.svg": "/react-movie-app/static/media/icon-heart-full.4fbe3c1943046282d8d7c864c3f32b25.svg",
+    "static/media/icon-heart-white.svg": "/react-movie-app/static/media/icon-heart-white.742ca9769a260f2a833fa3cd9b854061.svg",
+    "index.html": "/react-movie-app/index.html",
+    "main.1e0b6b60.js.map": "/react-movie-app/static/js/main.1e0b6b60.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1e0b6b60.js"
+  ]
+}
